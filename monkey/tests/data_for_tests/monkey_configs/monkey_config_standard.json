@@ -54,7 +54,6 @@
         "victims_max_exploit": 100,
         "self_delete_in_cleanup": true,
         "use_file_logging": true,
-        "serialize_config": false,
         "alive": true,
         "aws_keys": {
           "aws_access_key_id": "",
