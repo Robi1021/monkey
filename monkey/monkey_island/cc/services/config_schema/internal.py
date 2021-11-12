@@ -72,12 +72,6 @@ INTERNAL = {
                     "default": True,
                     "description": "Should the monkey dump to a log file",
                 },
-                "serialize_config": {
-                    "title": "Serialize config",
-                    "type": "boolean",
-                    "default": False,
-                    "description": "Should the monkey dump its config on startup",
-                },
                 "alive": {
                     "title": "Alive",
                     "type": "boolean",
