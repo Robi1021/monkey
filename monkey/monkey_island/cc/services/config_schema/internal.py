@@ -66,12 +66,6 @@ INTERNAL = {
                     "default": True,
                     "description": "Should the monkey delete its executable when going down",
                 },
-                "use_file_logging": {
-                    "title": "Use file logging",
-                    "type": "boolean",
-                    "default": True,
-                    "description": "Should the monkey dump to a log file",
-                },
                 "serialize_config": {
                     "title": "Serialize config",
                     "type": "boolean",
